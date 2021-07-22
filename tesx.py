@@ -1,4 +1,5 @@
 import os
 print(os.path)
 print("haha")
-ptrin("111")
+print("111")
+print("222")
